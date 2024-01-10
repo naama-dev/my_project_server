@@ -1,0 +1,28 @@
+C:\Users\USER\Desktop\הנדסאים יד\REACT\פרויקט גמר משימות\MyProject\Models\bin\Debug\net6.0\Models.deps.json
+C:\Users\USER\Desktop\הנדסאים יד\REACT\פרויקט גמר משימות\MyProject\Models\bin\Debug\net6.0\Models.runtimeconfig.json
+C:\Users\USER\Desktop\הנדסאים יד\REACT\פרויקט גמר משימות\MyProject\Models\bin\Debug\net6.0\Models.dll
+C:\Users\USER\Desktop\הנדסאים יד\REACT\פרויקט גמר משימות\MyProject\Models\bin\Debug\net6.0\Models.pdb
+C:\Users\USER\Desktop\הנדסאים יד\REACT\פרויקט גמר משימות\MyProject\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\הנדסאים יד\REACT\פרויקט גמר משימות\MyProject\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\הנדסאים יד\REACT\פרויקט גמר משימות\MyProject\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\הנדסאים יד\REACT\פרויקט גמר משימות\MyProject\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+C:\Users\USER\Desktop\הנדסאים יד\REACT\פרויקט גמר משימות\MyProject\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\הנדסאים יד\REACT\פרויקט גמר משימות\MyProject\Models\obj\Debug\net6.0\Models.dll
+C:\Users\USER\Desktop\הנדסאים יד\REACT\פרויקט גמר משימות\MyProject\Models\obj\Debug\net6.0\refint\Models.dll
+C:\Users\USER\Desktop\הנדסאים יד\REACT\פרויקט גמר משימות\MyProject\Models\obj\Debug\net6.0\Models.pdb
+C:\Users\USER\Desktop\הנדסאים יד\REACT\פרויקט גמר משימות\MyProject\Models\obj\Debug\net6.0\Models.genruntimeconfig.cache
+C:\Users\USER\Desktop\הנדסאים יד\REACT\פרויקט גמר משימות\MyProject\Models\obj\Debug\net6.0\ref\Models.dll
+T:\בלאגן\נעמהההההה\MyProject\Models\bin\Debug\net6.0\Models.deps.json
+T:\בלאגן\נעמהההההה\MyProject\Models\bin\Debug\net6.0\Models.runtimeconfig.json
+T:\בלאגן\נעמהההההה\MyProject\Models\bin\Debug\net6.0\Models.dll
+T:\בלאגן\נעמהההההה\MyProject\Models\bin\Debug\net6.0\Models.pdb
+T:\בלאגן\נעמהההההה\MyProject\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+T:\בלאגן\נעמהההההה\MyProject\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+T:\בלאגן\נעמהההההה\MyProject\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+T:\בלאגן\נעמהההההה\MyProject\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+T:\בלאגן\נעמהההההה\MyProject\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+T:\בלאגן\נעמהההההה\MyProject\Models\obj\Debug\net6.0\Models.dll
+T:\בלאגן\נעמהההההה\MyProject\Models\obj\Debug\net6.0\refint\Models.dll
+T:\בלאגן\נעמהההההה\MyProject\Models\obj\Debug\net6.0\Models.pdb
+T:\בלאגן\נעמהההההה\MyProject\Models\obj\Debug\net6.0\Models.genruntimeconfig.cache
+T:\בלאגן\נעמהההההה\MyProject\Models\obj\Debug\net6.0\ref\Models.dll
